@@ -1,4 +1,4 @@
-# ihcux-racha-aiRachaAí - Protótipo de Baixa Fidelidade
+# ihcux-racha-ai
 Integrante
 
 Gabriel Ribeiro de Oliveira
